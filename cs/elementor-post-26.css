@@ -1,0 +1,52 @@
+.elementor-26 .elementor-element.elementor-element-d4666b1>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+	align-content: flex-end;
+	align-items: flex-end;
+}
+
+.elementor-26 .elementor-element.elementor-element-e295291 {
+	width: 340px;
+	max-width: 340px;
+}
+
+.elementor-26 .elementor-element.elementor-element-70539dc .elementor-heading-title {
+	line-height: 1.35em;
+}
+
+.elementor-26 .elementor-element.elementor-element-3bb21c8 .elementor-spacer-inner {
+	height: 30px;
+}
+
+.elementor-26 .elementor-element.elementor-element-0d42d09 {
+	color: #FFFFFF99;
+	font-size: .9375rem;
+	width: 390px;
+	max-width: 390px;
+}
+
+.elementor-26 .elementor-element.elementor-element-d85c0d8 .elementor-spacer-inner {
+	height: 70px;
+}
+
+.elementor-26 .elementor-element.elementor-element-c5962fe .elementor-spacer-inner {
+	height: 70px;
+}
+
+.elementor-26 .elementor-element.elementor-element-07d37c5 .elementor-spacer-inner {
+	height: 70px;
+}
+
+@media(max-width:1169px) {
+	.elementor-26 .elementor-element.elementor-element-4c35aa2>.elementor-element-populated {
+		margin: 100px 0 0;
+	}
+}
+
+@media(max-width:1169px) and (min-width:767px) {
+	.elementor-26 .elementor-element.elementor-element-b93b97a {
+		width: 100%;
+	}
+
+	.elementor-26 .elementor-element.elementor-element-4c35aa2 {
+		width: 100%;
+	}
+}
