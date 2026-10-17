@@ -3,10 +3,8 @@
 	height: 80px;
 	max-width: 100%;
 	border-radius: 5px;
-	background-image: url('../images/manipal-logo.png');
-	background-repeat: no-repeat;
-	background-size: contain;
-	background-position: center;
+	display: block;
+	object-fit: contain;
 }
 
 .elementor-22 .elementor-element.elementor-element-d3ea8ed .elementor-spacer-inner {
