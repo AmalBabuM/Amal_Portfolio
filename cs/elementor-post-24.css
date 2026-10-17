@@ -13,9 +13,14 @@
 /* Keep project navigation legible over both light and dark backgrounds. */
 .vlt-portfolio-controls .vlt-slider-controls--style-2 .vlt-swiper-button-prev,
 .vlt-portfolio-controls .vlt-slider-controls--style-2 .vlt-swiper-button-next {
+	-webkit-appearance: none;
+	appearance: none;
+	box-sizing: border-box;
 	width: 56px;
 	height: 56px;
+	margin: 0;
 	padding: 14px;
+	line-height: 1;
 	border: 2px solid rgba(255, 255, 255, .8);
 	border-radius: 50%;
 	color: #fff;
@@ -25,6 +30,8 @@
 }
 
 .vlt-portfolio-controls .vlt-slider-controls--style-2 svg {
+	display: block;
+	flex-shrink: 0;
 	width: 24px;
 	height: 28px;
 }
