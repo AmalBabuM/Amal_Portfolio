@@ -1,3 +1,14 @@
+.elementor-22 .manipal-university-logo {
+	width: 80px;
+	height: 80px;
+	max-width: 100%;
+	border-radius: 5px;
+	background-image: url('../images/manipal-logo.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
 .elementor-22 .elementor-element.elementor-element-d3ea8ed .elementor-spacer-inner {
 	height: 70px;
 }
